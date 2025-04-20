@@ -21,8 +21,8 @@ Each problem is like a mini-adventure:
 
 ## ✍️ Logs
 
-| Day | Problem | Topic | Notes | Difficulty | Solution Link |
-|-----|---------|-------|-------|------------|---------------|
+| Date | Problem | Source | Topic | Notes | Difficulty | Solution Link |
+|------|---------|--------|-------|-------|------------|---------------|
 
 ## Planned problems to complete some day 🚀
 
@@ -130,6 +130,16 @@ These are the "someday" problems, like that book you keep meaning to read or the
 |[Rotate Array](https://leetcode.com/problems/rotate-array)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
+
+
+
+
+
+
+
+
+
+
 
 ## 📌 Sources I pull problems from:
 - [LeetCode](https://leetcode.com/)
