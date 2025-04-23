@@ -1,0 +1,8 @@
+evdev==1.9.1
+getkey==0.6.5
+markdown-it-py==3.0.0
+mdurl==0.1.2
+Pygments==2.19.1
+python-xlib==0.33
+rich==14.0.0
+six==1.17.0

@@ -6,6 +6,9 @@ Welcome to my little corner of the internet where I:
 - 🧾 Write detailed explanations so future me (or you!) gets it
 - 🎯 Use this to prep for interviews & take a break from boring job application
 
+## ✨ Want to steal my setup and make life easier?
+
+All those fancy tables you see below? Totally automated. If you want to track your grind and make your practice sessions smoother than butter, I've got you covered. Follow these steps to replicate my setup and become the algorithm wizard you were born to be: [Click here for the magic guide](./Instructions.md). 🪄
 
 ## ❓ Why this exists
 Job hunting for me is draining when I am just tossing resumes into the void. This repo is my way of:
@@ -18,6 +21,7 @@ Each problem is like a mini-adventure:
 - 🚫📄 No problem descriptions (because respecting terms and conditions is cool 😎)
 - 💡 A peek into my thought process (a.k.a. the "what was I thinking?!" moments)
 - 🏁 The final code solution, sprinkled with comments for clarity and future me's(or potentially your) sanity
+
 
 ## ✍️ Logs
 
@@ -79,12 +83,10 @@ These are the "someday" problems, like that book you keep meaning to read or the
 |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Jump Game](https://leetcode.com/problems/jump-game)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
-|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Partition Labels](https://leetcode.com/problems/partition-labels)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Two Sum](https://leetcode.com/problems/two-sum)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
-|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
@@ -114,7 +116,6 @@ These are the "someday" problems, like that book you keep meaning to read or the
 |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Min Stack](https://leetcode.com/problems/min-stack)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Decode String](https://leetcode.com/problems/decode-string)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
-|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[3Sum](https://leetcode.com/problems/3sum)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
@@ -130,14 +131,9 @@ These are the "someday" problems, like that book you keep meaning to read or the
 |[Rotate Array](https://leetcode.com/problems/rotate-array)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
 |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)|
-
-
-
-
-
-
-
-
+| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/) |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/) |
 
 
 
